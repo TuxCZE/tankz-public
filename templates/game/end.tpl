@@ -1,0 +1,1 @@
+<h1>Player {$c.game->getWinner()->getName()} won!</h1>

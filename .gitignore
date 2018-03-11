@@ -1,0 +1,6 @@
+.idea
+.htaccess
+templates_c/
+lib/*
+*.swp
+
