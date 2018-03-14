@@ -67,6 +67,7 @@ class Router
     {
         $this->urls[''] = 'HomeController';
         $this->urls['game'] = 'GameController';
+        $this->urls['tests'] = 'TestController'; 
 
         $address = explode('/', $_SERVER['REQUEST_URI']);
 
